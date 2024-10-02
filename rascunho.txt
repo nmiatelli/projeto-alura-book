@@ -1,0 +1,59 @@
+<section class="carrossel">
+    <h2 class="carrossel__titulo>Mais Vendidos</h2>
+
+    <div class="swiper">
+
+        <div class="swiper-pagination"></div>
+
+        <div class="swiper-wrapper">
+
+            <div class="swiper-slide"><img src="" alt=""></div>           
+            <div class="swiper-slide"><img src="" alt=""></div>           
+            <div class="swiper-slide"><img src="" alt=""></div>           
+            <div class="swiper-slide"><img src="" alt=""></div>           
+            <div class="swiper-slide"><img src="" alt=""></div>           
+            <div class="swiper-slide"><img src="" alt=""></div>
+        </div>
+
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next></div>
+    </div>
+
+    <div class="card">
+
+        <!--Primeira linha-->
+        <div class="card__descricao">
+
+            <!--Primeira coluna-->
+            <div class="descricao"
+
+                <img src="estrelas">
+                <h3 class="descricao__titulo>Autora do mes></h3>
+                <h2 class="descricao__autora>Juliana Agarikov</h2>
+                <p class="descricao__texto">Analista de sistemas e escritora, Juliana é especialista em Front-End.</p>
+            </div>
+
+            <!--Segunda coluna-->
+            <img src="" class="descricao__imagem>
+        </div>
+
+        <!--Segunda Linha-->
+        <div class="card__botoes">
+
+            <ul class="botoes">
+                <li class="botoes__item"><img src="" alt=""></li>     
+                <li class="botoes__item"><img src="" alt=""></li>     
+            </ul>
+        
+
+            <!--Segunda Coluna-->
+            <a href="#" class="botoes__ancora">Saiba Mais</a>
+        </div>
+    </div>        
+</section>      
+    
+      
+   
+
+
+
